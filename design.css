@@ -1,0 +1,43 @@
+*{ 
+  padding: 0;
+   margin: 0;
+} 
+body{ 
+    background-color:white;  
+    padding-top: 9vh;
+} 
+.login-case{
+    width: 350px;
+    height: 400px;
+    padding: 30px 30px; 
+    background-color: rgb(225, 225, 206); 
+    box-shadow: 0 0 10px 0 #000 ; 
+    border-radius: 10px; 
+    margin: auto;
+}  
+
+ul.record {  
+    list-style-type: none; 
+    text-align: center;
+
+} 
+ul.record li{ 
+  width: 250; 
+  margin-bottom: 10px;
+} 
+ul.record li input{ 
+   width: 250px;  
+   text-align: center;  
+   padding:  7px 0px;
+
+}  
+ul.record li input[type="button"]{ 
+    background-color: #4285F4;
+}
+.logo { 
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 14%;
+  }
+  
